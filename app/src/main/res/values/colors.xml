@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#F2EEFF</color>
+    <color name="permanent_geranium_lake">#E72929</color>
+    <color name="green">#6EFFBF</color>
+    <color name="pink">#E5B4F4</color>
+    <color name="cancer">#8154a8</color>
+</resources>
