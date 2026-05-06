@@ -9,11 +9,11 @@ Berikut adalah tampilan antarmuka dari aplikasi Cancersc:
 
 | Halaman Utama | Input Gambar | Preview Gambar |
 | :---: | :---: | :---: |
-| ![Halaman Utama](screenshot/Halaman%20Utama.jpg) | ![Input Gambar](screenshot/Input%20Gambar.jpg) | ![Preview Gambar](screenshot/Preview%20Gambar.jpg) |
+| <img src="screenshot/Halaman%20Utama.jpg" width="200"> | <img src="screenshot/Input%20Gambar.jpg" width="200"> | <img src="screenshot/Preview%20Gambar.jpg" width="200"> |
 
 | Hasil Analisis Gambar | Daftar Riwayat |
 | :---: | :---: |
-| ![Hasil Analisis](screenshot/Hasil%20Analisis%20Gambar.jpg) | ![Daftar Riwayat](screenshot/Daftar%20Riwayat%20Hasil%20Analisis.jpg) |
+| <img src="screenshot/Hasil%20Analisis%20Gambar.jpg" width="200"> | <img src="screenshot/Daftar%20Riwayat%20Hasil%20Analisis.jpg" width="200"> |
 
 ## Fitur
 - **Deteksi Kanker Kulit**: Analisis gambar secara instan menggunakan model TensorFlow Lite yang berjalan secara lokal.
